@@ -1,0 +1,18 @@
+Carolyns-MacBook-Air:src ckoerner$ scp -p movie.mpg ckoerner@zeus.vse.gmu.edu:/usr/local/shared/SWE622/ckoerner
+
+
+
+VOLGENAU SCHOOL LABORATORIES.
+For account information see:
+http://labs.vse.gmu.edu/reference/faq_iteaccount.htm#account
+
+*********************** IMPORTANT NOTICE *************************
+Zeus uses the campus kerberos database which currently expires passwords
+more frequently that the other campus systems.
+
+If you cannot login, go to password.gmu.edu and reset your 
+password wait 10 minutes then try again.
+
+ckoerner@zeus.vse.gmu.edu's password: 
+movie.mpg                                                                           100%   11MB 665.8KB/s   00:17    
+Carolyns-MacBook-Air:src ckoerner$ 

@@ -1,0 +1,7 @@
+java FileClient localhost 6001
+/Users/ckoerner/SWE622/fileSharing/src/CLIENT/DOWNLOADED/
+/Users/ckoerner/SWE622/fileSharing/src/SERVER/UPLOADED/
+U
+/Users/ckoerner/INFS515/HW1/EPSON031.JPG
+D
+/Users/ckoerner/Library/PubSub/Clients.plist

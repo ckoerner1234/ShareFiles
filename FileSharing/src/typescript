@@ -1,0 +1,11 @@
+Script started on Sun Feb 17 17:53:20 2013
+[?1034hbash-3.2$ cp FileClient.jsv[K[Kava CLIENT/f[KFileClient.java
+bash-3.2$ cp FileServer.java SERVER/FileServer.java
+bash-3.2$ cd File[K[K[K[KCLIENT
+bash-3.2$ JAVA[K[K[K[Kjavac FileClient.java
+cbash-3.2$ cd ../Ser[K[KERVER
+bash-3.2$ JAVA[K[K[K[Kjavac FileServer.java
+bash-3.2$ java[K[K[K[Kexit
+exit
+
+Script done on Sun Feb 17 17:55:40 2013
